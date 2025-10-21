@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><strong> 100+ Developer-first, CPU-friendly Hugging Face Models based notebooks with transparent measurements.</strong></p>
+<p><strong> 100+ Developer-first, CPU,GPU, MLX -friendly Hugging Face Models based notebooks with transparent measurements.</strong></p>
 
 <p>
   <a href="/docs/gallery.md" style="padding:12px 20px;margin:4px;display:inline-block;border-radius:8px;background:#1f6feb;color:#fff;text-decoration:none;font-weight:600;">Notebook Gallery</a>
