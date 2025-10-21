@@ -152,7 +152,7 @@ Developer-ready shortlist of Hugging Face models we plan to ship as notebooks. F
 
 ### Who It's For
 - Practitioners who need reproducible, CPU-safe Hugging Face experiments.
-- Teams validating Metal or CUDA paths without breaking CPU workflows.
+- Teams validating Metal or CUDA paths without breaking CPU workflows. (MLX Coming Shortly)
 - Contributors adding benchmarks, fixes, or doc polish with low friction.
 
 **Prereqs:** Python ≥3.10, git, and `pip`. GPU/Metal optional.
