@@ -99,12 +99,12 @@ Open any notebook from `/notebooks` in Jupyter, VS Code, or Colab (badges inside
 ## 📒 Notebook Catalog (80+ models)
 Developer-ready shortlist of Hugging Face models we plan to ship as notebooks. Full catalog refreshes from `/meta/notebook_catalog.csv`.
 
-**Current coverage:** 95 models total  
+**Current coverage:** 100 models total  
 ![Model distribution by section](assets/model_distribution.png)
 
 | Section | Models |
 |---|---|
-| Audio | 20 |
+| Audio | 25 |
 | Multimodal | 20 |
 | NLP | 20 |
 | Vision | 35 |
@@ -147,7 +147,7 @@ Developer-ready shortlist of Hugging Face models we plan to ship as notebooks. F
 | **VISION** · [ResNet-50](https://huggingface.co/microsoft/resnet-50) | Classic classification transfer | torchvision, timm | CPU/GPU/MLX | 4–8GB |
 | **VISION** · [CLIP ViT-B LAION](https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K) | Zero-shot retrieval large corpus | transformers | CPU/GPU | 4–8GB |
 
-[View the full 95-model catalog →](./notebooks/catalog.md)
+[View the full 100-model catalog →](./notebooks/catalog.md)
 <!-- CATALOG:END -->
 
 ### Who It's For
