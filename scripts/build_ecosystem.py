@@ -134,7 +134,7 @@ def replace_section(readme_text: str, table_md: str, date_str: str) -> str:
             table_md.strip(),
             MARKER_END,
             "",
-            "How to suggest a library: [open an issue](https://github.com/SSusantAchary/Hands-On-Huggingface-AI-Models/issues/new?template=01-suggest-ecosystem-library.md).",
+            "How to suggest a library: [open an issue](https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook/issues/new?template=01-suggest-ecosystem-library.md).",
             "",
         ]
     )

@@ -2010,7 +2010,7 @@ def top_cell(spec: NotebookSpec) -> str:
         f"**Models & Datasets:** [{spec['model_name']}]({spec['model_link']}) ({spec['model_license']}), [{spec['dataset_name']}]({spec['dataset_link']}) ({spec['dataset_license']})",
         f"**Run Profiles:** {RUN_PROFILES}",
         f"**Env (minimal):** {BASE_ENV}",
-        f"**Colab:** [Open in Colab](https://colab.research.google.com/github/SSusantAchary/Hands-On-Huggingface-AI-Models/blob/main/{spec['colab_path']})",
+        f"**Colab:** [Open in Colab](https://colab.research.google.com/github/SSusantAchary/HuggingFace-HandsOn-Cookbook/blob/main/{spec['colab_path']})",
         "",
         "**Switches (edit in one place):**",
         SWITCHES,

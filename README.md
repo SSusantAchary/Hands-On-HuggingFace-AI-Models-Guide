@@ -8,7 +8,7 @@
   <a href="/docs/benchmarks.md" style="padding:12px 20px;margin:4px;display:inline-block;border-radius:8px;background:#6f42c1;color:#fff;text-decoration:none;font-weight:600;">Benchmark Highlights</a>
 </p>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/SSusantAchary/Hands-On-HuggingFace-AI-Models-Guide?style=social)](https://github.com/SSusantAchary/Hands-On-HuggingFace-AI-Models-Guide)
+[![GitHub Repo stars](https://img.shields.io/github/stars/SSusantAchary/HuggingFace-HandsOn-Cookbook?style=social)](https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Built with 🤗 Transformers](https://img.shields.io/badge/Built%20with-%F0%9F%A4%97%20Transformers-ff4a9c.svg)](https://huggingface.co/transformers)
 
@@ -53,7 +53,7 @@
 | Apps & Demos | [Spaces + Gradio](https://huggingface.co/docs/hub/en/spaces-sdks-gradio) | Share interactive demos on the Hub | UI for notebooks & models |
 <!-- ECOSYSTEM:END -->
 
-How to suggest a library: [open an issue](https://github.com/SSusantAchary/Hands-On-HuggingFace-AI-Models-Guide/issues/new?template=01-suggest-ecosystem-library.md).
+How to suggest a library: [open an issue](https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook/issues/new?template=01-suggest-ecosystem-library.md).
 
 
 ---
@@ -66,8 +66,8 @@ How to suggest a library: [open an issue](https://github.com/SSusantAchary/Hands
 
 ### Quick Start
 ```bash
-git clone https://github.com/SSusantAchary/Hands-On-HuggingFace-AI-Models-Guide.git
-cd Hands-On-HuggingFace-AI-Models-Guide
+git clone https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook.git
+cd HuggingFace-HandsOn-Cookbook
 python -m venv .venv && source .venv/bin/activate
 pip install -r notebooks/requirements-minimal.txt
 ```
@@ -160,7 +160,7 @@ Developer-ready shortlist of Hugging Face models we plan to ship as notebooks. F
   author    = {S. Susant Achary},
   title     = {Hands-On Hugging Face AI Models},
   year      = {2025},
-  howpublished = {\url{https://github.com/SSusantAchary/Hands-On-HuggingFace-AI-Models-Guide}}
+  howpublished = {\url{https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook}}
 }
 ```
 Licensed under the [Apache License 2.0](LICENSE).

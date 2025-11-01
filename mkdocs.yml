@@ -1,7 +1,7 @@
 # MkDocs configuration for the developer docs microsite.
-site_name: Hands-On Hugging Face AI Models
-repo_url: https://github.com/SSusantAchary/Hands-On-Huggingface-AI-Models
-repo_name: Hands-On-Huggingface-AI-Models
+site_name: HuggingFace Hands-On Cookbook
+repo_url: https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook
+repo_name: HuggingFace-HandsOn-Cookbook
 theme:
   name: material
   features:
@@ -12,7 +12,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/SSusantAchary/Hands-On-Huggingface-AI-Models
+      link: https://github.com/SSusantAchary/HuggingFace-HandsOn-Cookbook
 nav:
   - Home: docs/index.md
   - Notebook Gallery: docs/gallery.md
